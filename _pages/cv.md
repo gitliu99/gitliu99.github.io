@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Decision Sciences, Fuqua School of Business, Duke University, 2010
+* M.S. in HPCES, Singapore-MIT-Alliance, 2004
+* B.S. in Electronic Engineering, Tsinghua University, 2003
 
 Work experience
 ======
